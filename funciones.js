@@ -23,7 +23,7 @@ function cuidadoConElConsoleLog(nombre) {
 
 //Funcion otraFuncion que realiza el llamado a otra funcion
 function otraFuncion(){
-   return console.log("el valor que retorna la Funcion cuidadoConElConsoleLog es: " + cuidadoConElConsoleLog('Eduard'));
+   return console.log("el valor que retorna la Funcion 'cuidadoConElConsoleLog' es: " + cuidadoConElConsoleLog('Eduard'));
 }
 
 otraFuncion();
