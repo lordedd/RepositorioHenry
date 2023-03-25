@@ -1,5 +1,6 @@
 // String
 var bootcamp = 'Henry';
+console.log(bootcamp.length);
 
 // Números
 var numeroEntero = 17;
